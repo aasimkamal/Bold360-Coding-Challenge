@@ -1,7 +1,6 @@
 {
   "name": "bold360-coding-challenge",
   "version": "0.1.0",
-  "main": ".src/index.js",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^3.9.3",
